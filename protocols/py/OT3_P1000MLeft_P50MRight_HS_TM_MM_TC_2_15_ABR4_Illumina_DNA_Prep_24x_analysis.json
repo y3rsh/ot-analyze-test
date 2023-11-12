@@ -1,0 +1,19 @@
+{
+    "createdAt": "2023-11-12T17:56:58.388591",
+    "errors": [
+        {
+            "id": "4f7ad374-f591-403d-9730-01906530b57f",
+            "errorType": "UnexpectedAnalysisError",
+            "detail": "Command '['python', '-I', '-m', 'opentrons.cli', 'analyze', '--json-output', PosixPath('/github/workspace/protocols/py/OT3_P1000MLeft_P50MRight_HS_TM_MM_TC_2_15_ABR4_Illumina_DNA_Prep_24x_analysis.json'), PosixPath('/github/workspace/protocols/py/OT3_P1000MLeft_P50MRight_HS_TM_MM_TC_2_15_ABR4_Illumina_DNA_Prep_24x.py'), '/github/workspace/protocols/py/custom_labware/opentrons_ot3_96_tiprack_1000ul_rss.json', '/github/workspace/protocols/py/custom_labware/sample_labware.json', '/github/workspace/protocols/py/custom_labware/opentrons_ot3_96_tiprack_50ul_rss.json', '/github/workspace/protocols/py/custom_labware/opentrons_ot3_96_tiprack_200ul_rss.json', '/github/workspace/protocols/py/custom_labware/cpx_4_tuberack_100ul.json']' returned non-zero exit status 1.",
+            "createdAt": "2023-11-12T17:56:58.388591"
+        }
+    ],
+    "files": [],
+    "metadata": [],
+    "commands": [],
+    "labware": [],
+    "pipettes": [],
+    "modules": [],
+    "liquids": [],
+    "config": {}
+}
