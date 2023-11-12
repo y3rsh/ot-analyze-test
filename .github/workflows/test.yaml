@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Analyze
-        uses: y3rsh/ot-analyze@v1.2
+        uses: y3rsh/ot-analyze@v1.3
