@@ -11,4 +11,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Analyze
-        uses: actions/ot-analyze@v1.1
+        uses: y3rsh/ot-analyze@v1.1
