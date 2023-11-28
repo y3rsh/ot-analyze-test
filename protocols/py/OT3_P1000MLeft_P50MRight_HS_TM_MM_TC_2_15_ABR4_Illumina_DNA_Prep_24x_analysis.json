@@ -1,0 +1,19 @@
+{
+    "createdAt": "2023-11-28T13:58:28.652986",
+    "errors": [
+        {
+            "id": "70b4c717-567c-4122-9b0e-5776b215b29d",
+            "errorType": "CalledProcessError",
+            "detail": "Error: You may only put apiLevel in the metadata dict or the requirements dict, not both.\n",
+            "createdAt": "2023-11-28T13:58:28.652986"
+        }
+    ],
+    "files": [],
+    "metadata": [],
+    "commands": [],
+    "labware": [],
+    "pipettes": [],
+    "modules": [],
+    "liquids": [],
+    "config": {}
+}
